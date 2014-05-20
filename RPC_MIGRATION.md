@@ -16,4 +16,4 @@ for i in `find . -name \*.php -or -name \*.js`; do
 done
 ```
 
-Modify the migration files as needed.
+Modify the migration files as needed. It contains two sets of the same translations, one ending with a quote and another that ends with equal sign.
