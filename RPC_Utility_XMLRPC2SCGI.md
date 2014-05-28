@@ -1,5 +1,5 @@
-XMLRPC2SCGI
-===========
+Utility XMLRPC2SCGI
+===================
 
 * http://libtorrent.rakshasa.no/downloads/xmlrpc2scgi.py
 
