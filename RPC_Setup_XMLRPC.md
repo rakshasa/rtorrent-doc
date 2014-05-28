@@ -100,9 +100,11 @@ Targets
 
 Note that all commands now require a target, even if it is an empty string.
 
+```
  > xmlrpc localhost f.get_size_bytes 91A2DF0C9288BC4C5D03EC8D8C26B4CF95A4DBEF i/3
  > xmlrpc localhost f.get_size_bytes 91A2DF0C9288BC4C5D03EC8D8C26B4CF95A4DBEF "3"
  > xmlrpc localhost f.get_size_bytes 91A2DF0C9288BC4C5D03EC8D8C26B4CF95A4DBEF:f3
  > xmlrpc localhost p.get_url        91A2DF0C9288BC4C5D03EC8D8C26B4CF95A4DBEF:p0
+```
 
 The first and second example passes the index of the file as an integer and string respectively. The third example uses a more compact syntax that contains both the info hash, type and index in the same string.
