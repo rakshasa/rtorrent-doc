@@ -28,4 +28,5 @@ Modify the migration files as needed. It contains two sets of the same translati
 Notes
 -----
 
-* d.multicall was renamed d.multicall2 and now requires a target. (add a blank string as the first argument)
+* "d.multicall" was renamed d.multicall2 and now requires a target. (add a blank string as the first argument)
+* Add empty target for execute* commands.
