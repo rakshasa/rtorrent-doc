@@ -17,3 +17,8 @@ done
 ```
 
 Modify the migration files as needed. It contains two sets of the same translations, one ending with a quote and another that ends with equal sign.
+
+Notes
+-----
+
+* d.multicall was renamed d.multicall2 and now requires a target. (add a blank string as the first argument)
