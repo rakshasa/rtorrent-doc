@@ -34,7 +34,7 @@ scgi.server = (
               )
 ```
 
-For nxing:
+For nginx:
 ----------
 
 ```
