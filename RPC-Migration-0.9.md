@@ -9,7 +9,7 @@ SED Scripts
 Introduction
 ------------
 
-As of rTorrent-0.9.0 a large number of commands have had their names changes and all now require a target. The old command names and behavior were replaced with aliases and marked for deprecation.
+As of rTorrent-0.9.0 a large number of commands have had their names changed and all now require a target. The old command names and behavior were replaced with aliases and marked for deprecation.
 
 Current master branch and future 0.10+ releases has removed the deprecated aliases.
 
