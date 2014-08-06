@@ -1,6 +1,9 @@
 RTorrent and LibTorrent Wiki
 ============================
 
+[User Guide](https://github.com/rakshasa/rtorrent/wiki/User-Guide)
+--------
+
 Download
 --------
 
